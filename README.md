@@ -4,7 +4,7 @@ ECMAScript
 ## This repo
 
 This repository contains the source for the current draft of ECMA-262,
-the ECMAScript® Language Specification.
+the ECMAScriptÂ® Language Specification.
 
 This source is processed to obtain a human-readable version,
 which you can view [here](https://tc39.github.io/ecma262/).
@@ -25,3 +25,10 @@ Please see [Contributing to ECMAScript](/CONTRIBUTING.md) for the most up-to-dat
 ## Developing the Specification
 
 After cloning, do `npm install` to set up your environment. You can then do `npm run build` to build the spec or `npm run watch` to set up a continuous build. The results will appear in the `out` directory, which you can use `npm run clean` to delete.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
